@@ -1,0 +1,30 @@
+.slider-container {
+  background-color: transparent;
+  padding: 40px;
+}
+.item-bg {
+  width: 80%;
+  text-align: center;
+}
+.h {
+  font-family: roboto;
+  color: #05acff;
+}
+.img {
+  width: 40%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.name {
+  font-family: roboto;
+  color: white;
+}
+
+.p-des {
+  font-family: roboto;
+  color: white;
+  width: 70%;
+  margin-left: auto;
+  margin-right: auto;
+}
